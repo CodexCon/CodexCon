@@ -14,7 +14,7 @@ CodexCon is more than a web development agency — it’s a partner in your digi
 - **Professional Email Solutions**: Custom email setups to elevate your brand.
 
 ### **What Makes Us Different?**
-1. **Affordable Pricing**: Fixed prices starting at just $20/year.
+1. **Affordable Pricing**: Starting at just $20/year.
 2. **Fast Turnaround**: Most websites are completed within 1-3 days.
 3. **Custom-Tailored Results**: We build websites designed to meet your business goals.
 
